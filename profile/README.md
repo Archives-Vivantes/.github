@@ -1,7 +1,8 @@
 # Archives Vivantes 
 
-**Transformer archives en héritage**
+<h2>Transformer archives en héritage</h2>
 
+*Quand les archives deviennent mémoire*
 
 <!--
 
