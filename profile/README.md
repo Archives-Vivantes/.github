@@ -1,4 +1,4 @@
-<img src="../images/AVLogo.png">
+<img src="../images/AVLogo.png" width="400" />
 
 # Archives Vivantes 
 
