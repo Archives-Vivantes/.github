@@ -6,7 +6,7 @@ Un soldat. Une famille. Une histoire qui mérite d'être préservée.
 
 Derrière chaque nom inscrit dans les archives militaires se cache une histoire humaine, souvent fragmentée. Nous la reconstituons avec méthode, sensibilité et transparence.
 
-À partir de sources officielles canadiennes, nous produisons un **livre de mémoire personnalisé**, destiné aux familles qui souhaitent comprendre, conserver et transmettre l’histoire d’un proche ayant servi lors des Grandes Guerres.
+À partir de sources officielles nationales, provinciales et militaires, nous reconstituons le parcours du soldat et le transformons en un **livre de mémoire personalisé**, destiné aux familles qui souhaitent comprendre, conserver et transmettre l’histoire d’un proche ayant servi lors des Grandes Guerres.
 
 La mémoire familiale mérite mieux que des fragments. Elle mérite un récit fondé, clair et durable.
 
